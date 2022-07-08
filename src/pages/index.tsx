@@ -5,7 +5,7 @@ const Index = () => {
 
     return (
         <Container>
-            <Customers />
+            index
         </Container>
     )
 }
